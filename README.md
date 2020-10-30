@@ -20,7 +20,7 @@ This is the reference code for [CryptoNote](https://cryptonote.org) cryptocurren
 
 Name must be specified twice:
 
-**1. in file src/CryptoNoteConfig.h** - `CRYPTONOTE_NAME` constant
+**1. in file src/CryptoNoteConfig.h** - `CRYPTONOTE_NAME` Sam ken Infinitum
 
 Example: 
 ```
