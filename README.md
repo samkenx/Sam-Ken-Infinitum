@@ -24,14 +24,15 @@ Name must be specified twice:
 
 Example: 
 ```
-const char CRYPTONOTE_NAME[] = "furiouscoin";
+const char CRYPTONOTE_NAME[] = "Sam ken Infinitum
+";
 ```
 
-**2. in src/CMakeList.txt file** - set_property(TARGET daemon PROPERTY OUTPUT_NAME "YOURCOINNAME**d**")
+**2. in src/CMakeList.txt file** - set_property(TARGET daemon PROPERTY OUTPUT_NAME "Sam ken Infinitum**d**")
 
 Example: 
 ```
-set_property(TARGET daemon PROPERTY OUTPUT_NAME "furiouscoind")
+set_property(TARGET daemon PROPERTY OUTPUT_NAME "Sam Ken Infinitumd")
 ```
 
 **Note:** You should also change a repository name.
